@@ -7,3 +7,15 @@ main {
     padding: 1em;
     text-align: center; 
 }
+#play_pause {
+    float: left;
+    width: 200px;
+    margin: 0 auto;
+    /* display: block; */
+}
+#set_speed { 
+    float: right;
+    width: 200px;
+    margin: 0 auto;
+    /* display:block; */
+}
